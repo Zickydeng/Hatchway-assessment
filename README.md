@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# About this project
+This was a Frontend developer skill level assessment provided by Hatchway to help assess the my skills level.
+The assignment was to fetch data from an api and the display/style it to look as close to what was provied as shown on the screen.
+Check out www.hatchway.com platform on how they conduct such assessment.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
